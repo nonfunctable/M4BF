@@ -3,7 +3,7 @@ local mouse = player:GetMouse()
 local l__TweenService__1 = game:GetService("TweenService");
 -- Settings
     local ColorCorrection = Instance.new("ColorCorrectionEffect")
-local Customization = game:GetObjects("rbxassetid://11743972654")[1]
+local Customization = game:GetObjects("rbxassetid://11744026142")[1]
 local Skins = game:GetObjects("rbxassetid://11743974440")[1]
 
 local function AddItemToChar(ItemName, Player)
